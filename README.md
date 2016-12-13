@@ -1,4 +1,4 @@
 # Domy-SegmentCustom
 自定义 头部滚动菜单栏
 效果图 
-![image](https://github.com/DomyZhang/Domy-SegmentCustom/edit/master/pic.gif)
+![image](https://github.com/DomyZhang/Domy-SegmentCustom/master/pic.gif)
